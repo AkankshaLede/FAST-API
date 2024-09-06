@@ -1,0 +1,18 @@
+{
+    "databaseChangeLog": [
+      
+        {
+          "include": {
+              "file": "changelog/account.json"
+          }
+        },
+        
+         {
+            "include":{
+                "file":"changelog/application.json"
+            }
+         }
+        
+         
+      ]
+  }
